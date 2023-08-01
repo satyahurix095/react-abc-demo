@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+  background-color: crimson ;
+
+}
+body{
+  background-color: crimson;
+  
+}
+span {
+  font-weight: 50;
+  font-style: italic;
+}
+img{
+  border-radius: 50%;
+  height: 200px;
+  aspect-ratio: 1/1;
+  object-fit:  cover;
+}
+#cont{
+  font-style: italic
+}
