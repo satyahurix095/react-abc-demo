@@ -33,7 +33,9 @@ function Count(props){
       
       <p><label for="file">likes and Dislikes</label><br/>
       <progress completed = {like} bgColor = "red"></progress></p>
-      <p>the worst actor in existence is jayam Ravi</p>
+      <p>the worst ever actor in existence is jayam Ravi</p>
+
+
     </div>
   )
 }
